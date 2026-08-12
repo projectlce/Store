@@ -1,0 +1,10 @@
+{
+  "id": "spooky-bundle",
+  "name": "Minecraft: Spooky Bundle",
+  "author": "4J Studios",
+  "description": "Improve your spooky october with this Spooky Bundle! This pack contains: Halloween Texture Pack, Halloween Charity Skin Pack",
+  "category": ["Bundle", "DLC"],
+  "thumbnail": "spooky-bundle.png",
+  "bundledPacks": ["halloween-texture-pack", "halloween-charity-pack"],
+  "version": "1.0.0"
+}

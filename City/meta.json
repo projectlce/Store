@@ -1,0 +1,13 @@
+{
+  "id": "city-texture-pack",
+  "name": "City Texture Pack",
+  "author": "4J Studios",
+  "description": "The City Texture Pack is a texture pack that customizes the game with new textures that are themed around a modern city.",
+  "extended_description": "",
+  "category": ["Texture", "DLC"],
+  "thumbnail": "city.png",
+  "zips": {
+    "City.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

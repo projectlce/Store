@@ -1,0 +1,13 @@
+{
+  "id": "marvel-spider-man",
+  "name": "Marvel Spider-Man Skin Pack",
+  "author": "4J Studios",
+  "description": "Swing into action with Spider‑Man, his allies, and his greatest foes.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "spiderman.png",
+  "zips": {
+    "Marvel Spider-Man.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "marvel-bundle",
+  "name": "Minecraft: Marvel Bundle",
+  "author": "4J Studios",
+  "description": "Suit up as your favourite superheros using this bundle pack! This pack contains: Spider-Man Skin Pack, Avengers Skin Pack, Guardians of the Galaxy Skin Pack",
+  "category": ["Bundle", "DLC"],
+  "thumbnail": "marvel-bundle.png",
+  "bundledPacks": ["marvel-avengers", "marvel-spider-man", "marvel-guardians-of-the-galaxy"],
+  "version": "1.0.0"
+}

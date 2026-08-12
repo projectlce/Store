@@ -1,0 +1,13 @@
+{
+  "id": "skyrim-mashup",
+  "name": "Skyrim Mash-up Pack",
+  "author": "4J Studios",
+  "description": "Experience Skyrim in Minecraft with themed textures, music, UI, and over 40 character skins.",
+  "extended_description": "",
+  "category": ["Texture", "Skin", "DLC"],
+  "thumbnail": "skyrim.png",
+  "zips": {
+    "Skyrim.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

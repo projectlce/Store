@@ -1,0 +1,13 @@
+{
+  "id": "doctor-who-skins-volume-1",
+  "name": "Doctor Who Skins Volume I",
+  "author": "4J Studios",
+  "description": "Play as iconic Doctors, companions, and classic characters from the Doctor Who universe.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "dw1.png",
+  "zips": {
+    "Doctor Who Skins Volume I.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "doctor-who-bundle",
+  "name": "Minecraft: Doctor Who Bundle",
+  "author": "4J Studios",
+  "description": "A full Doctor Who bundle pack. This pack contains: Doctor Who Skin Pack Volume I, Doctor Who Skin Pack Volume II",
+  "category": ["Bundle", "DLC"],
+  "thumbnail": "doctor-who-bundle.png",
+  "bundledPacks": ["doctor-who-skins-volume-1", "doctor-who-skins-volume-2"],
+  "version": "1.0.0"
+}

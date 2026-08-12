@@ -1,0 +1,13 @@
+{
+  "id": "marvel-avengers",
+  "name": "Marvel Avengers Skin Pack",
+  "author": "4J Studios",
+  "description": "Assemble Earth’s mightiest heroes with this collection of iconic Avengers skins.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "avengers.png",
+  "zips": {
+    "Marvel Avengers.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

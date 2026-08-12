@@ -1,0 +1,13 @@
+{
+  "id": "festive-mashup",
+  "name": "Festive Mash-up Pack",
+  "author": "4J Studios",
+  "description": "Merry Christmas 2014! Celebrate this year with the Festive Mash-up pack! Including a full texture pack, world template, music and a additional skin pack!",
+  "extended_description": "",
+  "category": ["Texture", "Skin", "DLC"],
+  "thumbnail": "festive.png",
+  "zips": {
+    "Festive.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

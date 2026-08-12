@@ -1,0 +1,13 @@
+{
+  "id": "natural-texture-pack",
+  "name": "Natural Texture Pack",
+  "author": "4J Studios",
+  "description": "The Natural Texture Pack is a texture pack that changes the game's textures to look more detailed and realistic.",
+  "extended_description": "",
+  "category": ["Texture", "DLC"],
+  "thumbnail": "natural.png",
+  "zips": {
+    "Natural.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "battle_and_beasts",
+  "name": "Battle & Beasts",
+  "author": "4J Studios",
+  "description": "Choose from a variety of over 45 skins revolving around wild animals and warriors of different nations!",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "bsp.png",
+  "zips": {
+    "Battle & Beasts.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

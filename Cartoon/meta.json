@@ -1,0 +1,13 @@
+{
+  "id": "cartoon-texture-pack",
+  "name": "Cartoon Texture Pack",
+  "author": "4J Studios",
+  "description": "Give Minecraft a bold, hand‑drawn look with vibrant colors and thick outlines.",
+  "extended_description": "",
+  "category": ["Texture", "DLC"],
+  "thumbnail": "cartoon.png",
+  "zips": {
+    "Cartoon.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "star-wars-rebels",
+  "name": "Star Wars Rebels Skin Pack",
+  "author": "4J Studios",
+  "description": "Join the crew of the Ghost with characters from the Star Wars Rebels series.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "swrebels.png",
+  "zips": {
+    "Star Wars Rebels.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

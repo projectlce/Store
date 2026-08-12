@@ -1,0 +1,13 @@
+{
+  "id": "fantasy-texture-pack",
+  "name": "Fantasy Texture Pack",
+  "author": "4J Studios",
+  "description": "The Fantasy Texture Pack is a texture pack that changes the game's textures to a medieval, rustic look.",
+  "extended_description": "",
+  "category": ["Texture", "DLC"],
+  "thumbnail": "fantasy.png",
+  "zips": {
+    "Fantasy.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

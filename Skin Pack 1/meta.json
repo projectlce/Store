@@ -1,0 +1,13 @@
+{
+  "id": "skin-pack-1",
+  "name": "Skin Pack 1",
+  "author": "4J Studios",
+  "description": "Skin Pack 1 is a skin pack that includes 44 skins (originally 45) referencing various characters from Minecraft and other popular video games.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "sp1.png",
+  "zips": {
+    "Skins1.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

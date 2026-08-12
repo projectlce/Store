@@ -1,0 +1,13 @@
+{
+  "id": "texturepack-plastic",
+  "name": "Plastic Texture Pack",
+  "author": "4J Studios",
+  "description": "The classic good old plastic texture pack, ported directly from console edition.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "plastic.png",
+  "zips": {
+    "Plastic.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

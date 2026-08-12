@@ -1,0 +1,13 @@
+{
+  "id": "halo-mashup",
+  "name": "Halo Mash-up Pack",
+  "author": "4J Studios",
+  "description": "Experience Halo in Minecraft with themed textures, music, UI, and a full set of Halo skins.",
+  "extended_description": "",
+  "category": ["Texture", "Skin", "DLC"],
+  "thumbnail": "halo.png",
+  "zips": {
+    "Halo.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

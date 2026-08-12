@@ -1,0 +1,13 @@
+{
+  "id": "festive-skins",
+  "name": "Festive Skin Pack",
+  "author": "4J Studios",
+  "description": "Celeberate the holidays! The Festive Skin Pack is a skin pack consisting of 24 Christmas-themed skins.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "festive_sp.png",
+  "zips": {
+    "SkinsFestive.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

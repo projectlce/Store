@@ -1,0 +1,13 @@
+{
+  "id": "birthday-skin-pack",
+  "name": "Birthday Skin Pack",
+  "author": "4J Studios",
+  "description": "Celebrate Minecraft’s anniversary with a collection of festive, party‑themed skins.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "birthday.png",
+  "zips": {
+    "Birthday Skin Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

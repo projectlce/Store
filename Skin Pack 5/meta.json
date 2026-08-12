@@ -1,0 +1,13 @@
+{
+  "id": "skin-pack-5",
+  "name": "Skin Pack 5",
+  "author": "4J Studios",
+  "description": "A classic collection of themed skins from a variety of games and franchises.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "sp5.png",
+  "zips": {
+    "Skin Pack 5.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

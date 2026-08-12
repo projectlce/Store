@@ -1,0 +1,13 @@
+{
+  "id": "star-wars-classic",
+  "name": "Star Wars Classic Skin Pack",
+  "author": "4J Studios",
+  "description": "Play as legendary heroes and villains from the original Star Wars trilogy.",
+  "extended_description": "",
+  "category": ["Skin", "DLC"],
+  "thumbnail": "swclassic.png",
+  "zips": {
+    "Star Wars Classic.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

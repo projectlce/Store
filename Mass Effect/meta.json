@@ -1,0 +1,13 @@
+{
+  "id": "mass-effect-mashup",
+  "name": "Mass Effect Mash-up Pack",
+  "author": "4J Studios",
+  "description": "Explore a sci‑fi universe with themed textures, music, UI, and a full roster of Mass Effect skins.",
+  "extended_description": "",
+  "category": ["Texture", "Skin", "DLC"],
+  "thumbnail": "masseffect.png",
+  "zips": {
+    "Mass Effect.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

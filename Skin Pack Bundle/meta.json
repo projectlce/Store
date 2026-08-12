@@ -1,0 +1,10 @@
+{
+  "id": "skin-pack-bundle",
+  "name": "Minecraft: Skin Pack Bundle",
+  "author": "4J Studios",
+  "description": "Download this bundle with 6 full skin packs containing 270 skins in total! This pack contains: Skin Pack 1, Skin Pack 2, Skin Pack 3, Skin Pack 4, Skin Pack 5, Skin Pack 6",
+  "category": ["Bundle", "DLC"],
+  "thumbnail": "sp_bundle.png",
+  "bundledPacks": ["skin-pack-1", "skin-pack-2", "skin-pack-3", "skin-pack-4", "skin-pack-5", "skin-pack-6"],
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "orginal-mashups-bundle",
+  "name": "Minecraft: Original Mash-ups",
+  "author": "4J Studios",
+  "description": "Enhance your minecraft experience with 3 full mash-up packs containing skins, textures and world templates! This pack contains: Halo Mash-up Pack, Skyrim Mash-up Pack, Mass Effect Mash-up Pack",
+  "category": ["Bundle", "DLC"],
+  "thumbnail": "original-mashups.png",
+  "bundledPacks": ["halo-mashup", "skyrim-mashup", "mass-effect-mashup"],
+  "version": "1.0.0"
+}
