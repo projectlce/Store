@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-05-24T12:11:14.173Z",
-  "count": 19,
+  "count": 14,
   "packages": [
     {
       "id": "battle_and_beasts",
       "name": "Battle & Beasts",
       "author": "4J Studios",
-      "description": "Choose from a variety of over 45 skins revolving around wild animals and warriors of different nations!",
+      "description": "Warriors and Animals are the main flavours for this Skin Pack. Hope you enjoy customising your Minecraft character with these!",
       "category": ["Skin", "DLC"],
       "thumbnail": "bsp.png",
       "zips": { "Battle & Beasts.zip": "{DLCDir}" },
@@ -16,49 +15,27 @@
       "id": "battle_and_beasts_2",
       "name": "Battle & Beasts 2",
       "author": "4J Studios",
-      "description": "Choose from a additional 45 skins revolving around wild animals and warriors of different nations!",
+      "description": "This second Battle & Beasts pack brings you more Animals, more Warrior and some surprising Mammals too! Who is your favourite?",
       "category": ["Skin", "DLC"],
       "thumbnail": "bsp2.png",
       "zips": { "Battle & Beasts 2.zip": "{DLCDir}" },
       "version": "1.0.0"
     },
     {
-      "id": "birthday-skin-pack",
-      "name": "Birthday Skin Pack",
-      "author": "4J Studios",
-      "description": "Celebrate Minecraft's first Birthday with this skin pack including over 22 party-themed skins available! Celebrating has never been easier before!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "birthday.png",
-      "zips": { "Birthday Skin Pack.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "birthday-skin-pack-2",
-      "name": "2nd Birthday Skin Pack",
-      "author": "4J Studios",
-      "description": "Celebrate our 2nd Birthday with over 25 exclusive party-themed skins!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "2nd_birthday.png",
-      "zips": {
-        "SkinsBirthday2.zip": "{DLCDir}"
-      },
-      "version": "1.0.0"
-    },
-    {
       "id": "candy-texture-pack",
       "name": "Candy Texture Pack",
       "author": "4J Studios",
-      "description": "Play your worlds in a sweet, candy aesthetic look! Everything is made out of candy!",
+      "description": "Indulge your sweet tooth with this sugar-coated texture pack!",
       "category": ["Texture", "DLC"],
       "thumbnail": "candy.png",
       "zips": { "Candy.zip": "{DLCDir}" },
       "version": "1.0.0"
     },
     {
-      "id": "texturepack-plastic",
+      "id": "plastic-texture-pack",
       "name": "Plastic Texture Pack",
       "author": "4J Studios",
-      "description": "Explore your worlds in a more minimalistic plastic looking style, designed for simplicity!",
+      "description": "Colorful, simple and vibrant. Transform the look of your worlds with this incredible texture pack for Minecraft.",
       "category": ["Texture", "DLC"],
       "thumbnail": "plastic.png",
       "zips": { "Plastic.zip": "{DLCDir}" },
@@ -68,7 +45,7 @@
       "id": "city-texture-pack",
       "name": "City Texture Pack",
       "author": "4J Studios",
-      "description": "The City Texture Pack is a texture pack that customizes the game with new textures that are themed around a modern city.",
+      "description": "A creative texture set, ideal for building structures. Free your inner architect and shape the world around you. The perfect set for the focused builder.",
       "category": ["Texture", "DLC"],
       "thumbnail": "city.png",
       "zips": { "City.zip": "{DLCDir}" },
@@ -78,7 +55,7 @@
       "id": "natural-texture-pack",
       "name": "Natural Texture Pack",
       "author": "4J Studios",
-      "description": "The Natural Texture Pack is a texture pack that changes the game's textures to look more detailed and realistic.",
+      "description": "The beautiful Natural texture pack, designed to give your Minecraft worlds a more natural look to your cubes.",
       "category": ["Texture", "DLC"],
       "thumbnail": "natural.png",
       "zips": {
@@ -90,7 +67,7 @@
       "id": "fantasy-texture-pack",
       "name": "Fantasy Texture Pack",
       "author": "4J Studios",
-      "description": "The Fantasy Texture Pack is a texture pack that changes the game's textures to a medieval, rustic look.",
+      "description": "Please meet the Fantasy texture pack. Let your imagination run free, transport yourselves to a time where Knights were heroes and legends were born. What will your medieval empire look like?",
       "category": ["Texture", "DLC"],
       "thumbnail": "fantasy.png",
       "zips": { "Fantasy.zip": "{DLCDir}" },
@@ -100,133 +77,17 @@
       "id": "cartoon-texture-pack",
       "name": "Cartoon Texture Pack",
       "author": "4J Studios",
-      "description": "This texture pack turns your entire world into a cartoon! Wander around, and feel the stylish new look your world has.",
+      "description": "A Minecraft texture pack to surprise and amuse you. Even the spiders are happy!",
       "category": ["Texture", "DLC"],
       "thumbnail": "cartoon.png",
       "zips": { "Cartoon.zip": "{DLCDir}" },
       "version": "1.0.0"
     },
     {
-      "id": "doctor-who-skins-volume-1",
-      "name": "Doctor Who Skins Volume I",
-      "author": "4J Studios",
-      "description": "The actual first volume of the skin pack in collaboration with Doctor Who!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "dw1.png",
-      "zips": { "Doctor Who Skins Volume I.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "doctor-who-skins-volume-2",
-      "name": "Doctor Who Skins Volume II",
-      "author": "4J Studios",
-      "description": "This pack deliveres the second volume skin pack of the Doctor Who collaboration!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "dw2.png",
-      "zips": { "Doctor Who Skins Volume II.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "soa-skins",
-      "name": "Summer of Arcade Skin Pack",
-      "author": "4J Studios",
-      "description": "The Summer of Arcade Skin Pack was a exclusive to the Xbox 360 Edition, now available for everyone! This pack comes with 15 skins!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "soa_sp.png",
-      "zips": {
-        "SOA.zip": "{DLCDir}"
-      },
-      "version": "1.0.0"
-    },
-    {
-      "id": "halloween-texture-pack",
-      "name": "Halloween Texture Pack",
-      "author": "4J Studios",
-      "description": "The Halloween Texture Pack is a texture pack that overhauls the game with Halloween-themed textures.",
-      "category": ["Texture", "DLC"],
-      "thumbnail": "halloween.png",
-      "zips": {
-        "Halloween.zip": "{DLCDir}"
-      },
-      "version": "1.0.0"
-    },
-    {
-      "id": "halloween-charity-pack",
-      "name": "Halloween Charity Pack",
-      "author": "4J Studios",
-      "description": "Spooooky! Enjoy this scary halloween charity texture pack with your friends, and get spooked by all of the scary artifacts in the game!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "halloween.png",
-      "zips": { "Halloween Charity Pack.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "halo-mashup",
-      "name": "Halo Mash-up Pack",
-      "author": "4J Studios",
-      "description": "In collaboration with Halo, we present the Master Chief Halo Mash-up Pack! This includes a entire dedicated Halo World, a skin pack and texture pack, all in one!",
-      "category": ["Mashup", "DLC"],
-      "thumbnail": "halo.png",
-      "zips": { "Halo.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "festive-mashup",
-      "name": "Festive Mash-up Pack",
-      "author": "4J Studios",
-      "description": "Merry Christmas 2014! Celebrate this year with the Festive Mash-up pack! Including a full texture pack, world template, music and a additional skin pack!",
-      "category": ["Mashup", "DLC"],
-      "thumbnail": "festive.png",
-      "zips": {
-        "Festive.zip": "{DLCDir}"
-      },
-      "version": "1.0.0"
-    },
-    {
-      "id": "littlebigplanet-mashup",
-      "name": "LittleBigPlanet Mash-up Pack",
-      "author": "4J Studios",
-      "description": "LittleBigPlanet is now in minecraft! Enjoy our selection of many skins we've added aswell as the texture pack.",
-      "category": ["Mashup", "DLC"],
-      "thumbnail": "lbp.png",
-      "zips": { "LittleBigPlanet.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "marvel-avengers",
-      "name": "Marvel Avengers Skin Pack",
-      "author": "4J Studios",
-      "description": "Avengers, assemble! Unite with all your friends and turn into the Avengers from Marvel using the skins from our skin pack!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "avengers.png",
-      "zips": { "Marvel Avengers.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "marvel-guardians-of-the-galaxy",
-      "name": "Marvel Guardians of the Galaxy Skin Pack",
-      "author": "4J Studios",
-      "description": "Turn into the Guardians of the Galaxy, and defend threats and enemies using your very cool new skins in this skin pack!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "gotg.png",
-      "zips": { "Marvel Guardians of the Galaxy.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "marvel-spider-man",
-      "name": "Marvel Spider-Man Skin Pack",
-      "author": "4J Studios",
-      "description": "Ever dreamt of being spider-man? Now you can, with our selection of many spider man related skins, you can do many more things than just wander the world!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "spiderman.png",
-      "zips": { "Marvel Spider-Man.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
       "id": "festive-skins",
       "name": "Festive Skin Pack",
       "author": "4J Studios",
-      "description": "Celeberate the holidays! The Festive Skin Pack is a skin pack consisting of 24 Christmas-themed skins.",
+      "description": "Here's a fab mini pack of 24 skins to customize your Minecraft character with, and get you in the mood for the holidays.",
       "category": ["Skin", "DLC"],
       "thumbnail": "festive_sp.png",
       "zips": {
@@ -235,20 +96,20 @@
       "version": "1.0.0"
     },
     {
-      "id": "mass-effect-mashup",
-      "name": "Mass Effect Mash-up Pack",
+      "id": "steampunk-texture-pack",
+      "name": "Steampunk Texture Pack",
       "author": "4J Studios",
-      "description": "A entire mash-up pack in collaboration with N7 Mass Effect, including a skin pack, texture pack and full world template! Wander around rocketships, planets and more!",
-      "category": ["Mashup", "DLC"],
-      "thumbnail": "masseffect.png",
-      "zips": { "Mass Effect.zip": "{DLCDir}" },
+      "description": "Create your own Industrial Revolution with this Victorian inspired Steampunk texture pack!",
+      "category": ["Texture", "DLC"],
+      "thumbnail": "steampunk.png",
+      "zips": { "Steampunk.zip": "{DLCDir}" },
       "version": "1.0.0"
     },
     {
       "id": "skin-pack-1",
       "name": "Skin Pack 1",
       "author": "4J Studios",
-      "description": "Skin Pack 1 is a skin pack that includes 44 skins (originally 45) referencing various characters from Minecraft and other popular video games.",
+      "description": "Customise your character with this selection of stunning skins!",
       "extended_description": "",
       "category": ["Skin", "DLC"],
       "thumbnail": "sp1.png",
@@ -261,7 +122,7 @@
       "id": "skin-pack-2",
       "name": "Skin Pack 2",
       "author": "4J Studios",
-      "description": "Skin Pack 2 is a skin pack that includes 43 skins (originally 45) referencing various characters from Minecraft and other popular video games.",
+      "description": "Customize your Minecraft character with this second selection of stunning skins!",
       "extended_description": "",
       "category": ["Skin", "DLC"],
       "thumbnail": "sp2.png",
@@ -274,7 +135,7 @@
       "id": "skin-pack-3",
       "name": "Skin Pack 3",
       "author": "4J Studios",
-      "description": "Skin Pack 3 is a skin pack that includes 44 skins (originally 45) referencing various characters from Minecraft and other popular video games.",
+      "description": "Here’s the third superb pack of skins for you to customise your Minecraft character with! We hope you will enjoy it!",
       "extended_description": "",
       "category": ["Skin", "DLC"],
       "thumbnail": "sp3.png",
@@ -284,163 +145,13 @@
       "version": "1.0.0"
     },
     {
-      "id": "skin-pack-4",
-      "name": "Skin Pack 4",
-      "author": "4J Studios",
-      "description": "Enjoy our fourth additional content Skin Pack, which includes over 45 skins, referencing various characters from Minecraft and other popular video games!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "sp4.png",
-      "zips": { "Skin Pack 4.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "skin-pack-5",
-      "name": "Skin Pack 5",
-      "author": "4J Studios",
-      "description": "Enjoy our fifth additional content Skin Pack, which includes over 45 skins, referencing many characters from Minecraft, and other video games!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "sp5.png",
-      "zips": { "Skin Pack 5.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "skin-pack-6",
-      "name": "Skin Pack 6",
-      "author": "4J Studios",
-      "description": "Enjoy our sixth additional content Skin Pack, which includes over 45 skins, referencing various characters from Minecraft and other popular video games!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "sp6.png",
-      "zips": { "Skin Pack 6.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
       "id": "skyrim-mashup",
       "name": "Skyrim Mash-up Pack",
       "author": "4J Studios",
-      "description": "In cooperation with Elder Scrolls V, we present the Skyrim Mash-up Pack! Explore the world template, enjoy skins and a full dedicated texture pack to this mash-up bundle.",
+      "description": "The Elder Scrolls V: Skyrim meets Minecraft in a clash of epic proportions. Build your own worlds in the land of Skyrim and experience adventure with many of its most iconic characters. Legendary fun awaits.",
       "category": ["Mashup", "DLC"],
       "thumbnail": "skyrim.png",
       "zips": { "Skyrim.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "star-wars-classic",
-      "name": "Star Wars Classic Skin Pack",
-      "author": "4J Studios",
-      "description": "Ever wanted to be in Star Wars? Now you can, with our official skin pack, allowing you to select from many skins referencing the Star Wars franchise!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "swclassic.png",
-      "zips": { "Star Wars Classic.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "star-wars-rebels",
-      "name": "Star Wars Rebels Skin Pack",
-      "author": "4J Studios",
-      "description": "Star Wars Rebels is in Minecraft! Select from many additional skins to the Star Wars franchise, and turn your entire world into a Star Wars universe!",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "swrebels.png",
-      "zips": { "Star Wars Rebels.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "the-simpsons-skin-pack",
-      "name": "The Simpsons Skin Pack",
-      "author": "4J Studios",
-      "description": "Do you like the Simpsons? Now you can become them! Become residents of Springfield, or members of the Simpsons family, this skin pack has many of them! This was made in collaboration with The Simpsons",
-      "category": ["Skin", "DLC"],
-      "thumbnail": "simpsons.png",
-      "zips": { "The Simpsons.zip": "{DLCDir}" },
-      "version": "1.0.0"
-    },
-    {
-      "id": "builders-bundle",
-      "name": "Minecraft: Builders Bundle",
-      "author": "4J Studios",
-      "description": "Grab yourself this Bundle Pack with over 6 building-related texture packs! This pack contains: Plastic Texture Pack, Natural Texture Pack, Fantasy Texture Pack, City Texture Pack, Cartoon Texture Pack, Candy Texture Pack.",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "builders_bundle.png",
-      "bundledPacks": ["texturepack-plastic", "natural-texture-pack", "fantasy-texture-pack", "city-texture-pack", "cartoon-texture-pack", "candy-texture-pack"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "skin-pack-bundle",
-      "name": "Minecraft: Skin Pack Bundle",
-      "author": "4J Studios",
-      "description": "Download this bundle with 6 full skin packs containing 270 skins in total! This pack contains: Skin Pack 1, Skin Pack 2, Skin Pack 3, Skin Pack 4, Skin Pack 5, Skin Pack 6",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "sp_bundle.png",
-      "bundledPacks": ["skin-pack-1", "skin-pack-2", "skin-pack-3", "skin-pack-4", "skin-pack-5", "skin-pack-6"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "birthday-bundle",
-      "name": "Minecraft: Birthday Bundle",
-      "author": "4J Studios",
-      "description": "Celebrate Minecrafts Birthdays by getting all 2 birthday skin packs with this bundle! This contains: Birthday Skin Pack, 2nd Birthday Skin Pack",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "birthday_bundle.png",
-      "bundledPacks": ["birthday-skin-pack", "birthday-skin-pack-2"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "star-wars-bundle",
-      "name": "Minecraft: Star Wars Bundle",
-      "author": "4J Studios",
-      "description": "Grab yourself the full Star Wars Experience with this Bundle Pack, containing 2 complete skin packs! This pack contains: Star Wars Classic, Star Wars Rebels",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "star_wars_bundle.png",
-      "bundledPacks": ["star-wars-classic", "star-wars-rebels"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "christmas-bundle",
-      "name": "Minecraft: Christmas Bundle",
-      "author": "4J Studios",
-      "description": "Happy Holidays! Celebrate them with the Christmas Bundle, containing a full mash-up pack, world template and texture pack! This pack contains: Festive Texture Pack, Festive Mash-up Pack",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "christmas_bundle.png",
-      "bundledPacks": ["festive-mashup", "festive_sp"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "orginal-mashups-bundle",
-      "name": "Minecraft: Original Mash-ups",
-      "author": "4J Studios",
-      "description": "Enhance your minecraft experience with 3 full mash-up packs containing skins, textures and world templates! This pack contains: Halo Mash-up Pack, Skyrim Mash-up Pack, Mass Effect Mash-up Pack",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "original-mashups.png",
-      "bundledPacks": ["halo-mashup", "skyrim-mashup", "mass-effect-mashup"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "spooky-bundle",
-      "name": "Minecraft: Spooky Bundle",
-      "author": "4J Studios",
-      "description": "Improve your spooky october with this Spooky Bundle! This pack contains: Halloween Texture Pack, Halloween Charity Skin Pack",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "spooky-bundle.png",
-      "bundledPacks": ["halloween-texture-pack", "halloween-charity-pack"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "marvel-bundle",
-      "name": "Minecraft: Marvel Bundle",
-      "author": "4J Studios",
-      "description": "Suit up as your favourite superheros using this bundle pack! This pack contains: Spider-Man Skin Pack, Avengers Skin Pack, Guardians of the Galaxy Skin Pack",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "marvel-bundle.png",
-      "bundledPacks": ["marvel-avengers", "marvel-spider-man", "marvel-guardians-of-the-galaxy"],
-      "version": "1.0.0"
-    },
-    {
-      "id": "doctor-who-bundle",
-      "name": "Minecraft: Doctor Who Bundle",
-      "author": "4J Studios",
-      "description": "A full Doctor Who bundle pack. This pack contains: Doctor Who Skin Pack Volume I, Doctor Who Skin Pack Volume II",
-      "category": ["Bundle", "DLC"],
-      "thumbnail": "doctor-who-bundle.png",
-      "bundledPacks": ["doctor-who-skins-volume-1", "doctor-who-skins-volume-2"],
       "version": "1.0.0"
     }
   ]

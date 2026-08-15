@@ -1,0 +1,13 @@
+{
+  "id": "steampunk-texture-pack",
+  "name": "Steampunk Texture Pack",
+  "author": "4J Studios",
+  "description": "Create your own Industrial Revolution with this Victorian inspired Steampunk texture pack!",
+  "extended_description": "",
+  "category": ["Texture", "DLC"],
+  "thumbnail": "steampunk.png",
+  "zips": {
+    "Steampunk.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
