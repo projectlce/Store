@@ -95,6 +95,7 @@
       },
       "version": "1.0.0"
     },
+    
     {
       "id": "steampunk-texture-pack",
       "name": "Steampunk Texture Pack",
@@ -103,6 +104,16 @@
       "category": ["Texture", "DLC"],
       "thumbnail": "steampunk.png",
       "zips": { "Steampunk.zip": "{DLCDir}" },
+      "version": "1.0.0"
+    },
+    {
+      "id": "festive-mashup",
+      "name": "Festive Mash-up Pack",
+      "author": "4J Studios",
+      "description": "Celebrate the Festive period with this wintry mash-up pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
+      "category": ["Mashup", "DLC"],
+      "thumbnail": "festive.png",
+      "zips": { "Festive.zip": "{DLCDir}" },
       "version": "1.0.0"
     },
     {
